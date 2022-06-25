@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/ty4115/Documents/Code/Computer-Networking-OS-Notebook/ComputerNetworking/Chapter_2/UDPinger'
+let g:netrw_dirhist_5='/home/ty4115/Downloads/Sockets/Programming_Assignments'
+let g:netrw_dirhist_4='/home/ty4115/Downloads/Sockets/Programming_Assignments/VideoStreamingCode'
+let g:netrw_dirhist_3='/home/ty4115/Downloads/Sockets/Programming_Assignments'
+let g:netrw_dirhist_2='/home/ty4115/Documents/Code/Computer-Networking-OS-Notebook/ComputerNetworking'
+let g:netrw_dirhist_1='/home/ty4115/Documents/Code/Computer-Networking-OS-Notebook/ComputerNetworking/Chapter_2'
+let g:netrw_dirhist_0='/home/ty4115/Documents/Code/Salus'
+let g:netrw_dirhist_9='/home/ty4115/Documents/Code'
+let g:netrw_dirhist_8='/home/ty4115/Documents'
+let g:netrw_dirhist_7='/home/ty4115/Documents/Code/C++Practices'

@@ -1,0 +1,2 @@
+#!/bin/bash
+exec i3lock --color=402f3a
